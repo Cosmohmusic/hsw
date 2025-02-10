@@ -25,7 +25,11 @@ vscode로 해당 폴더 열기
 
 npm run dev 로 사이트 확인
 
+
+npm run build-css : css(스타일) 압축
+
 npm run build : 사이트 압축
+
 
 npm run dist : 커밋(commit), 임시 저장소 
 npm run deploy : 푸시(push), 실전 저장소
